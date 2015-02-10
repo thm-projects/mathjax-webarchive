@@ -1,0 +1,18 @@
+{
+  "name": "mathjax-webarchive",
+  "license": "LGPL-3.0+",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgerhardt/mathjax-webarchive.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6",
+    "grunt-contrib-jshint": "^0.11",
+		"grunt-contrib-symlink": "^0.3",
+    "grunt-jscs": "^1.2",
+    "grunt-war": "^0.4.4",
+    "time-grunt": "^1.0"
+  },
+  "private": true
+}

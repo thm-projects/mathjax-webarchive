@@ -1,0 +1,7 @@
+{
+  "name": "mathjax-webarchive",
+  "dependencies": {
+    "MathJax": "2.4"
+  },
+  "private": true
+}
